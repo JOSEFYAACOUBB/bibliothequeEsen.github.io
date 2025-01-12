@@ -95,3 +95,16 @@ footer{
     margin-top: 300px;
 
 }
+@media (max-width: 1024px) {
+    #titre {
+        font-size: 40px;
+    }
+
+    .container {
+        width: 45%;
+    }
+
+    .nav_links li {
+        padding-right: 30px;
+    }
+}
